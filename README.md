@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/><a href="https://github.com/asam89">DevSecOps Engineer</a>, <a href="https://www.linkedin.com/in/alex-sam-823068191/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@alexandersam542">YouTuber</a></h1>
+<h1>Hi, I'm Alex! <br/><a href="https://github.com/asam89">DevSecOps Engineer</a>, <a href="https://www.linkedin.com/in/alex-sam-823068191/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@alexandersam542">Project Manager</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
