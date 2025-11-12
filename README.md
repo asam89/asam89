@@ -14,6 +14,14 @@
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,aws,k8s,pytorch,py,django,flask,fastapi,selenium,linux,redis,postgres,nginx,mysql,git,docker,bash,js)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavshrivastavagit&show_icons=true&theme=dark&locale=en" alt="manavshrivastavagit" /></p>
+### Hi there 👋
+
+![Asam's GitHub stats](https://github-readme-stats.vercel.app/api?username=asam89&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asam89&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asam89&theme=dark)
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
