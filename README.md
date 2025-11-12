@@ -4,7 +4,19 @@
 
 </h2>🔭 I’m currently working on</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manavshrivastavagit&label=Profile%20views&color=0e75b6&style=flat" alt="manavshrivastava" /> </p>
+<!-- 🔗 Agile AI Agent Project -->
+<p align="left">
+  <a href="https://github.com/asam89/agileaiagent" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AgileAI%20Agent-blue?logo=github&style=for-the-badge" alt="Agile AI Agent Repo" />
+  </a>
+  <br>
+  <em>Building an AI-driven automation framework that integrates Agile delivery, Azure DevOps, and data intelligence.</em>
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=manavshrivastavagit&label=Profile%20views&color=0e75b6&style=flat" alt="manavshrivastava" /> 
+</p>
+
 
 ## Linkedin 🔗
 <p align="left">
