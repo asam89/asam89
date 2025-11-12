@@ -7,7 +7,7 @@
 
 ## Linkedin 🔗
 <p align="left">
-<a href="https://www.linkedin.com/in/alex-sam-823068191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavshrivastava" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/alex-sam-823068191/](https://www.linkedin.com/in/alexander-s-306575278/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavshrivastava" height="30" width="40" /></a>
 </p>
 
 ## MySkills 🚀
