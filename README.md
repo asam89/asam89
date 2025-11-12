@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+</h2>🔭 I’m currently working on</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manavshrivastavagit&label=Profile%20views&color=0e75b6&style=flat" alt="manavshrivastava" /> </p>
 
@@ -49,6 +50,7 @@
 [<img align="left" alt="Alexsam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Alexsam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Alexsam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Alexsam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Portfolio]
 
 [twitter]: https://twitter.com/ignytetechnology
 [youtube]: https://www.youtube.com/ignyteconsulting
